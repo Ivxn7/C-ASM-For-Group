@@ -10,4 +10,6 @@
 
 <p align="left">A group project</p>
 
+<p align="left">In order to run this program, run "make" in terminal and run the executable "main.exe"</p>
+
 ###
